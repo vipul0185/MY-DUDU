@@ -5,7 +5,7 @@
   margin-top: 10px;
   margin-left: 410px;
   margin-bottom: 20px;
-  font-size: 77px;
+  font-size: 30px;
 }
 .first-button:hover{
   color: rgb(red, green, blue);
@@ -31,9 +31,5 @@
 
 }
 .bubu{
-  margin-left: 1200px;
+  margin-left: 10px;
   margin-top: 0;
-  background-color:rgb(221, 208, 31) ;
-  color: black;
-  font-weight: bold;
-}
