@@ -1,0 +1,39 @@
+.first-button{
+  background-color: black;
+ color: aliceblue;
+ align-content: center;
+  margin-top: 10px;
+  margin-left: 410px;
+  margin-bottom: 20px;
+  font-size: 77px;
+}
+.first-button:hover{
+  color: rgb(red, green, blue);
+  background-color: red;
+}
+.second-button{
+  color: whitesmoke; 
+  background-color: red;
+}
+.second-button:hover{
+  background-color: black;
+  color: aliceblue;
+}
+.birthday-container{
+  border-radius: 0.5cm;
+  border-color: brown;
+  background-color: blanchedalmond;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 0px;
+  align-content: first baseline;
+  text-align: center;
+
+}
+.bubu{
+  margin-left: 1200px;
+  margin-top: 0;
+  background-color:rgb(221, 208, 31) ;
+  color: black;
+  font-weight: bold;
+}
